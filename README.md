@@ -23,7 +23,7 @@ Either run [sessiongen.py](./sessiongen.py) locally or run it on [repl.it by cli
 - `!resume` - Yes, resume.   
 
 ## Support
-- [@BotzHub](https://t.me/BotzHubChat)   
+- [@RobotRoom](https://t.me/RobotRoomChat)   
 
 
 ## TODO
